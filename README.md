@@ -5,5 +5,5 @@
 ## 数据预处理 | 第1天
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version/blob/master/Info-graphs/Day%201.jpg">
 </p>
