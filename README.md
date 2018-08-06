@@ -8,7 +8,7 @@
   <img src="https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
-## 简单腺性回归 | [第2天](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version/blob/master/Code/Day2_Simple_Linear_Regression.md)
+## 简单线性回归 | [第2天](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version/blob/master/Code/Day2_Simple_Linear_Regression.md)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version/blob/master/Info-graphs/Day%202.jpg">
