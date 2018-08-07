@@ -2,6 +2,8 @@
 
 英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。
 
+[中文最新版](https://github.com/MachineLearning100/100-Days-Of-ML-Code)
+
 # 目录
 - [数据预处理](#数据预处理--第1天)
 - [简单线性回归](#简单线性回归--第2天)
