@@ -2,7 +2,7 @@
 
 英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。
 
-[中文最新版](https://github.com/MachineLearning100/100-Days-Of-ML-Code)
+[中文最新版](https://github.com/MachineLearning100/100-Days-Of-ML-Code)。常见问题解答见[FAQ](https://github.com/MLEveryday/100-Days-Of-ML-Code/blob/master/FAQ.MD)。
 
 # 目录
 - 有监督学习
